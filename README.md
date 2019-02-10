@@ -15,4 +15,4 @@
 
 * By: Layan, Nada, Rahaf, and Sara
 
-* don't copy the project as your own! *
+* <b>don't copy the project as your own! *</b>
